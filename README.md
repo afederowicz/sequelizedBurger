@@ -1,2 +1,2 @@
-# sequelizedBurger
-burger homework with sequelize
+# burger
+burger app
